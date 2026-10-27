@@ -1,0 +1,7 @@
+racing_odds*.csv
+race.log*
+debug/
+.race.lock
+*.tmp
+__pycache__/
+.venv/
